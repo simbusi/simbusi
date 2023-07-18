@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simbusi
 - 👀 I’m interested in UX/UI Design
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me simbusi022@student.wethinkcode.co.za
 
 <!---
